@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeDuyViet_2411945_Lab1.2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ade7f6d88650a7d3d0f95091cbe0e1d527070aa8")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeDuyViet_2411945_Lab1.2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeDuyViet_2411945_Lab1.2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

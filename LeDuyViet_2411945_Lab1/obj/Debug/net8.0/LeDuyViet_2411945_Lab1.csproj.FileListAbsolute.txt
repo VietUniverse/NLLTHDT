@@ -13,3 +13,4 @@ D:\Lab\NLLTHDT\LeDuyViet_2411945_Lab1\obj\Debug\net8.0\LeDuyViet_2411945_Lab1.pd
 D:\Lab\NLLTHDT\LeDuyViet_2411945_Lab1\obj\Debug\net8.0\LeDuyViet_2411945_Lab1.genruntimeconfig.cache
 D:\Lab\NLLTHDT\LeDuyViet_2411945_Lab1\obj\Debug\net8.0\ref\LeDuyViet_2411945_Lab1.dll
 D:\Lab\NLLTHDT\LeDuyViet_2411945_Lab1\bin\Debug\net8.0\input.txt
+D:\Lab\NLLTHDT\LeDuyViet_2411945_Lab1\obj\Debug\net8.0\LeDuyViet_2411945_Lab1.sourcelink.json

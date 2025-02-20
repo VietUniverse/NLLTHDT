@@ -82,7 +82,6 @@ internal class Program
             sw.Write('\n');
         }
     }
-}
     static int TinhTong(List<int> ds) //2.1
     {
         return ds.Sum();
@@ -158,7 +157,7 @@ internal class Program
             if (ds[i] == x)
                 count++;
         }
-
+        return count;
     }
 
     static bool KiemTraX(List<int> ds, int x)
@@ -167,17 +166,6 @@ internal class Program
             if (ds[i] == x)
                 return true;
         return false;
-    }
-
-    static int TimSoLanXuatHien(List<int> ds, int x)//2.10
-    {
-        int count = 0;
-        for (int i = 0; i < ds.Count; i++)
-        {
-            if (ds[i] == x)
-                count++;
-        }
-        return count;
     }
 
     static List<int> TimViTriX(List<int> ds, int x) //3.1
@@ -281,7 +269,7 @@ internal class Program
 
     static int TimSoNguyenXuatHienNhieuNhat(List<int> ds) //3.10
     {
-        int max = 0, res;
+        int max = 0, res = 0;
         foreach (int i in ds)
             if (TimSoLanXuatHien(ds,i) > max)
             {
@@ -292,7 +280,7 @@ internal class Program
     }
     static int TimSoNguyenXuatHienItNhat(List<int> ds) //3.11
     {
-        int min = int.MaxValue, res;
+        int min = int.MaxValue, res = 0;
         foreach (int i in ds)
             if (TimSoLanXuatHien(ds,i) < min)
             {
@@ -394,7 +382,7 @@ internal class Program
     static void XoaDuoi(List<int> ds) //5.3
     { ds.RemoveAt(ds.Count - 1); }
     static void XoaDanhSach(List<int> ds) //5.4
-    { ds.RemoveAll(); }
+    { ds.Clear(); }
     static void XoaLonHonX(List<int> ds, int x) //5.5
     {
         foreach (var i in ds)
