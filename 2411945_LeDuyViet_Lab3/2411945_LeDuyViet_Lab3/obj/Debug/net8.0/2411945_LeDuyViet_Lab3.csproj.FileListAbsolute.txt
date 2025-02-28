@@ -1,0 +1,17 @@
+D:\Lab\NLLTHDT\2411945_LeDuyViet_Lab3\2411945_LeDuyViet_Lab3\bin\Debug\net8.0\SinhVien.cs
+D:\Lab\NLLTHDT\2411945_LeDuyViet_Lab3\2411945_LeDuyViet_Lab3\bin\Debug\net8.0\2411945_LeDuyViet_Lab3.exe
+D:\Lab\NLLTHDT\2411945_LeDuyViet_Lab3\2411945_LeDuyViet_Lab3\bin\Debug\net8.0\2411945_LeDuyViet_Lab3.deps.json
+D:\Lab\NLLTHDT\2411945_LeDuyViet_Lab3\2411945_LeDuyViet_Lab3\bin\Debug\net8.0\2411945_LeDuyViet_Lab3.runtimeconfig.json
+D:\Lab\NLLTHDT\2411945_LeDuyViet_Lab3\2411945_LeDuyViet_Lab3\bin\Debug\net8.0\2411945_LeDuyViet_Lab3.dll
+D:\Lab\NLLTHDT\2411945_LeDuyViet_Lab3\2411945_LeDuyViet_Lab3\bin\Debug\net8.0\2411945_LeDuyViet_Lab3.pdb
+D:\Lab\NLLTHDT\2411945_LeDuyViet_Lab3\2411945_LeDuyViet_Lab3\obj\Debug\net8.0\2411945_LeDuyViet_Lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab\NLLTHDT\2411945_LeDuyViet_Lab3\2411945_LeDuyViet_Lab3\obj\Debug\net8.0\2411945_LeDuyViet_Lab3.AssemblyInfoInputs.cache
+D:\Lab\NLLTHDT\2411945_LeDuyViet_Lab3\2411945_LeDuyViet_Lab3\obj\Debug\net8.0\2411945_LeDuyViet_Lab3.AssemblyInfo.cs
+D:\Lab\NLLTHDT\2411945_LeDuyViet_Lab3\2411945_LeDuyViet_Lab3\obj\Debug\net8.0\2411945_LeDuyViet_Lab3.csproj.CoreCompileInputs.cache
+D:\Lab\NLLTHDT\2411945_LeDuyViet_Lab3\2411945_LeDuyViet_Lab3\obj\Debug\net8.0\2411945_LeDuyViet_Lab3.sourcelink.json
+D:\Lab\NLLTHDT\2411945_LeDuyViet_Lab3\2411945_LeDuyViet_Lab3\obj\Debug\net8.0\2411945_LeDuyViet_Lab3.dll
+D:\Lab\NLLTHDT\2411945_LeDuyViet_Lab3\2411945_LeDuyViet_Lab3\obj\Debug\net8.0\refint\2411945_LeDuyViet_Lab3.dll
+D:\Lab\NLLTHDT\2411945_LeDuyViet_Lab3\2411945_LeDuyViet_Lab3\obj\Debug\net8.0\2411945_LeDuyViet_Lab3.pdb
+D:\Lab\NLLTHDT\2411945_LeDuyViet_Lab3\2411945_LeDuyViet_Lab3\obj\Debug\net8.0\2411945_LeDuyViet_Lab3.genruntimeconfig.cache
+D:\Lab\NLLTHDT\2411945_LeDuyViet_Lab3\2411945_LeDuyViet_Lab3\obj\Debug\net8.0\ref\2411945_LeDuyViet_Lab3.dll
+D:\Lab\NLLTHDT\2411945_LeDuyViet_Lab3\2411945_LeDuyViet_Lab3\bin\Debug\net8.0\data.txt
