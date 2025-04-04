@@ -1,0 +1,15 @@
+D:\Lab\NLLTHDT\QLDongVat\QLDongVat\obj\Debug\net8.0\QLDongVat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab\NLLTHDT\QLDongVat\QLDongVat\obj\Debug\net8.0\QLDongVat.AssemblyInfoInputs.cache
+D:\Lab\NLLTHDT\QLDongVat\QLDongVat\obj\Debug\net8.0\QLDongVat.AssemblyInfo.cs
+D:\Lab\NLLTHDT\QLDongVat\QLDongVat\obj\Debug\net8.0\QLDongVat.csproj.CoreCompileInputs.cache
+D:\Lab\NLLTHDT\QLDongVat\QLDongVat\obj\Debug\net8.0\QLDongVat.sourcelink.json
+D:\Lab\NLLTHDT\QLDongVat\QLDongVat\bin\Debug\net8.0\QLDongVat.exe
+D:\Lab\NLLTHDT\QLDongVat\QLDongVat\bin\Debug\net8.0\QLDongVat.deps.json
+D:\Lab\NLLTHDT\QLDongVat\QLDongVat\bin\Debug\net8.0\QLDongVat.runtimeconfig.json
+D:\Lab\NLLTHDT\QLDongVat\QLDongVat\bin\Debug\net8.0\QLDongVat.dll
+D:\Lab\NLLTHDT\QLDongVat\QLDongVat\bin\Debug\net8.0\QLDongVat.pdb
+D:\Lab\NLLTHDT\QLDongVat\QLDongVat\obj\Debug\net8.0\QLDongVat.dll
+D:\Lab\NLLTHDT\QLDongVat\QLDongVat\obj\Debug\net8.0\refint\QLDongVat.dll
+D:\Lab\NLLTHDT\QLDongVat\QLDongVat\obj\Debug\net8.0\QLDongVat.pdb
+D:\Lab\NLLTHDT\QLDongVat\QLDongVat\obj\Debug\net8.0\QLDongVat.genruntimeconfig.cache
+D:\Lab\NLLTHDT\QLDongVat\QLDongVat\obj\Debug\net8.0\ref\QLDongVat.dll

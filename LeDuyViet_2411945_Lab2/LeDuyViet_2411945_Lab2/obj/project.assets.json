@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Lab\\LeDuyViet_2411945_Lab2\\LeDuyViet_2411945_Lab2\\LeDuyViet_2411945_Lab2.csproj",
+      "projectUniqueName": "D:\\Lab\\NLLTHDT\\LeDuyViet_2411945_Lab2\\LeDuyViet_2411945_Lab2\\LeDuyViet_2411945_Lab2.csproj",
       "projectName": "LeDuyViet_2411945_Lab2",
-      "projectPath": "D:\\Lab\\LeDuyViet_2411945_Lab2\\LeDuyViet_2411945_Lab2\\LeDuyViet_2411945_Lab2.csproj",
+      "projectPath": "D:\\Lab\\NLLTHDT\\LeDuyViet_2411945_Lab2\\LeDuyViet_2411945_Lab2\\LeDuyViet_2411945_Lab2.csproj",
       "packagesPath": "C:\\Users\\GF63\\.nuget\\packages\\",
-      "outputPath": "D:\\Lab\\LeDuyViet_2411945_Lab2\\LeDuyViet_2411945_Lab2\\obj\\",
+      "outputPath": "D:\\Lab\\NLLTHDT\\LeDuyViet_2411945_Lab2\\LeDuyViet_2411945_Lab2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,9 +49,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
+        "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -72,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lab\\NLLTHDT\\QLNguoi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0698FFED-D7A7-424F-B5B2-AC175BC5EA55}|QLNguoi\\QLNguoi.csproj|d:\\lab\\nllthdt\\qlnguoi\\qlnguoi\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0698FFED-D7A7-424F-B5B2-AC175BC5EA55}|QLNguoi\\QLNguoi.csproj|solutionrelative:qlnguoi\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0698FFED-D7A7-424F-B5B2-AC175BC5EA55}|QLNguoi\\QLNguoi.csproj|d:\\lab\\nllthdt\\qlnguoi\\qlnguoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0698FFED-D7A7-424F-B5B2-AC175BC5EA55}|QLNguoi\\QLNguoi.csproj|solutionrelative:qlnguoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0698FFED-D7A7-424F-B5B2-AC175BC5EA55}|QLNguoi\\QLNguoi.csproj|d:\\lab\\nllthdt\\qlnguoi\\qlnguoi\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0698FFED-D7A7-424F-B5B2-AC175BC5EA55}|QLNguoi\\QLNguoi.csproj|solutionrelative:qlnguoi\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0698FFED-D7A7-424F-B5B2-AC175BC5EA55}|QLNguoi\\QLNguoi.csproj|d:\\lab\\nllthdt\\qlnguoi\\qlnguoi\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0698FFED-D7A7-424F-B5B2-AC175BC5EA55}|QLNguoi\\QLNguoi.csproj|solutionrelative:qlnguoi\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 518,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\Lab\\NLLTHDT\\QLNguoi\\QLNguoi\\Teacher.cs",
+              "RelativeDocumentMoniker": "QLNguoi\\Teacher.cs",
+              "ToolTip": "D:\\Lab\\NLLTHDT\\QLNguoi\\QLNguoi\\Teacher.cs",
+              "RelativeToolTip": "QLNguoi\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T15:01:53.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Lab\\NLLTHDT\\QLNguoi\\QLNguoi\\Student.cs",
+              "RelativeDocumentMoniker": "QLNguoi\\Student.cs",
+              "ToolTip": "D:\\Lab\\NLLTHDT\\QLNguoi\\QLNguoi\\Student.cs*",
+              "RelativeToolTip": "QLNguoi\\Student.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T15:01:45.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Lab\\NLLTHDT\\QLNguoi\\QLNguoi\\Person.cs",
+              "RelativeDocumentMoniker": "QLNguoi\\Person.cs",
+              "ToolTip": "D:\\Lab\\NLLTHDT\\QLNguoi\\QLNguoi\\Person.cs",
+              "RelativeToolTip": "QLNguoi\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T15:01:38.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Lab\\NLLTHDT\\QLNguoi\\QLNguoi\\Program.cs",
+              "RelativeDocumentMoniker": "QLNguoi\\Program.cs",
+              "ToolTip": "D:\\Lab\\NLLTHDT\\QLNguoi\\QLNguoi\\Program.cs",
+              "RelativeToolTip": "QLNguoi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T15:01:17.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 118,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

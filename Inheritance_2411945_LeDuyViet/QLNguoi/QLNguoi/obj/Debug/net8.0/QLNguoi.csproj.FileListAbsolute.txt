@@ -1,0 +1,15 @@
+D:\Lab\NLLTHDT\QLNguoi\QLNguoi\obj\Debug\net8.0\QLNguoi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab\NLLTHDT\QLNguoi\QLNguoi\obj\Debug\net8.0\QLNguoi.AssemblyInfoInputs.cache
+D:\Lab\NLLTHDT\QLNguoi\QLNguoi\obj\Debug\net8.0\QLNguoi.AssemblyInfo.cs
+D:\Lab\NLLTHDT\QLNguoi\QLNguoi\obj\Debug\net8.0\QLNguoi.csproj.CoreCompileInputs.cache
+D:\Lab\NLLTHDT\QLNguoi\QLNguoi\obj\Debug\net8.0\QLNguoi.sourcelink.json
+D:\Lab\NLLTHDT\QLNguoi\QLNguoi\bin\Debug\net8.0\QLNguoi.exe
+D:\Lab\NLLTHDT\QLNguoi\QLNguoi\bin\Debug\net8.0\QLNguoi.deps.json
+D:\Lab\NLLTHDT\QLNguoi\QLNguoi\bin\Debug\net8.0\QLNguoi.runtimeconfig.json
+D:\Lab\NLLTHDT\QLNguoi\QLNguoi\bin\Debug\net8.0\QLNguoi.dll
+D:\Lab\NLLTHDT\QLNguoi\QLNguoi\bin\Debug\net8.0\QLNguoi.pdb
+D:\Lab\NLLTHDT\QLNguoi\QLNguoi\obj\Debug\net8.0\QLNguoi.dll
+D:\Lab\NLLTHDT\QLNguoi\QLNguoi\obj\Debug\net8.0\refint\QLNguoi.dll
+D:\Lab\NLLTHDT\QLNguoi\QLNguoi\obj\Debug\net8.0\QLNguoi.pdb
+D:\Lab\NLLTHDT\QLNguoi\QLNguoi\obj\Debug\net8.0\QLNguoi.genruntimeconfig.cache
+D:\Lab\NLLTHDT\QLNguoi\QLNguoi\obj\Debug\net8.0\ref\QLNguoi.dll

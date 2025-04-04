@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Lab\\NLLTHDT\\LeDuyViet_2411945_Lab1.2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Lab\\NLLTHDT\\LeDuyViet_2411945_Lab1.2\\LeDuyViet_2411945_Lab1.2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeDuyViet_2411945_Lab1.2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92F778E6-08D8-4D0F-A0D7-5687E3264D61}|LeDuyViet_2411945_Lab1.2\\LeDuyViet_2411945_Lab1.2.csproj|d:\\lab\\nllthdt\\leduyviet_2411945_lab1.2\\leduyviet_2411945_lab1.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F778E6-08D8-4D0F-A0D7-5687E3264D61}|LeDuyViet_2411945_Lab1.2\\LeDuyViet_2411945_Lab1.2.csproj|solutionrelative:leduyviet_2411945_lab1.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,8 +28,10 @@
               "RelativeDocumentMoniker": "LeDuyViet_2411945_Lab1.2\\Program.cs",
               "ToolTip": "D:\\Lab\\NLLTHDT\\LeDuyViet_2411945_Lab1.2\\LeDuyViet_2411945_Lab1.2\\Program.cs",
               "RelativeToolTip": "LeDuyViet_2411945_Lab1.2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T04:02:20.033Z"
+              "WhenOpened": "2025-02-20T04:02:20.033Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,15 @@
+D:\Lab\NLLTHDT\Inheritance\QLXe\QLXe\obj\Debug\net8.0\QLXe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab\NLLTHDT\Inheritance\QLXe\QLXe\obj\Debug\net8.0\QLXe.AssemblyInfoInputs.cache
+D:\Lab\NLLTHDT\Inheritance\QLXe\QLXe\obj\Debug\net8.0\QLXe.AssemblyInfo.cs
+D:\Lab\NLLTHDT\Inheritance\QLXe\QLXe\obj\Debug\net8.0\QLXe.csproj.CoreCompileInputs.cache
+D:\Lab\NLLTHDT\Inheritance\QLXe\QLXe\obj\Debug\net8.0\QLXe.sourcelink.json
+D:\Lab\NLLTHDT\Inheritance\QLXe\QLXe\bin\Debug\net8.0\QLXe.exe
+D:\Lab\NLLTHDT\Inheritance\QLXe\QLXe\bin\Debug\net8.0\QLXe.deps.json
+D:\Lab\NLLTHDT\Inheritance\QLXe\QLXe\bin\Debug\net8.0\QLXe.runtimeconfig.json
+D:\Lab\NLLTHDT\Inheritance\QLXe\QLXe\bin\Debug\net8.0\QLXe.dll
+D:\Lab\NLLTHDT\Inheritance\QLXe\QLXe\bin\Debug\net8.0\QLXe.pdb
+D:\Lab\NLLTHDT\Inheritance\QLXe\QLXe\obj\Debug\net8.0\QLXe.dll
+D:\Lab\NLLTHDT\Inheritance\QLXe\QLXe\obj\Debug\net8.0\refint\QLXe.dll
+D:\Lab\NLLTHDT\Inheritance\QLXe\QLXe\obj\Debug\net8.0\QLXe.pdb
+D:\Lab\NLLTHDT\Inheritance\QLXe\QLXe\obj\Debug\net8.0\QLXe.genruntimeconfig.cache
+D:\Lab\NLLTHDT\Inheritance\QLXe\QLXe\obj\Debug\net8.0\ref\QLXe.dll

@@ -1,0 +1,16 @@
+D:\Nga-Phan\Project\OOP\ViDuTinhKeThua\QLDongVat\bin\Debug\QLDongVat.exe.config
+D:\Nga-Phan\Project\OOP\ViDuTinhKeThua\QLDongVat\bin\Debug\QLDongVat.exe
+D:\Nga-Phan\Project\OOP\ViDuTinhKeThua\QLDongVat\bin\Debug\QLDongVat.pdb
+D:\Nga-Phan\Project\OOP\ViDuTinhKeThua\QLDongVat\obj\Debug\QLDongVat.csproj.AssemblyReference.cache
+D:\Nga-Phan\Project\OOP\ViDuTinhKeThua\QLDongVat\obj\Debug\QLDongVat.csproj.CoreCompileInputs.cache
+D:\Nga-Phan\Project\OOP\ViDuTinhKeThua\QLDongVat\obj\Debug\QLDongVat.exe
+D:\Nga-Phan\Project\OOP\ViDuTinhKeThua\QLDongVat\obj\Debug\QLDongVat.pdb
+D:\Nga-Phan\Project\OOP\ViDuTinhKeThua\QLDongVat\bin\Debug\data.txt
+D:\Lab\NLLTHDT\ViDuTinhKeThua\QLDongVat\bin\Debug\data.txt
+D:\Lab\NLLTHDT\ViDuTinhKeThua\QLDongVat\bin\Debug\QLDongVat.exe.config
+D:\Lab\NLLTHDT\ViDuTinhKeThua\QLDongVat\bin\Debug\QLDongVat.exe
+D:\Lab\NLLTHDT\ViDuTinhKeThua\QLDongVat\bin\Debug\QLDongVat.pdb
+D:\Lab\NLLTHDT\ViDuTinhKeThua\QLDongVat\obj\Debug\QLDongVat.csproj.AssemblyReference.cache
+D:\Lab\NLLTHDT\ViDuTinhKeThua\QLDongVat\obj\Debug\QLDongVat.csproj.CoreCompileInputs.cache
+D:\Lab\NLLTHDT\ViDuTinhKeThua\QLDongVat\obj\Debug\QLDongVat.exe
+D:\Lab\NLLTHDT\ViDuTinhKeThua\QLDongVat\obj\Debug\QLDongVat.pdb

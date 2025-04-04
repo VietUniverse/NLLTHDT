@@ -1,0 +1,15 @@
+D:\Lab\NLLTHDT\Inheritance\QLHinhHoc\QLHinhHoc\bin\Debug\net8.0\QLHinhHoc.exe
+D:\Lab\NLLTHDT\Inheritance\QLHinhHoc\QLHinhHoc\bin\Debug\net8.0\QLHinhHoc.deps.json
+D:\Lab\NLLTHDT\Inheritance\QLHinhHoc\QLHinhHoc\bin\Debug\net8.0\QLHinhHoc.runtimeconfig.json
+D:\Lab\NLLTHDT\Inheritance\QLHinhHoc\QLHinhHoc\bin\Debug\net8.0\QLHinhHoc.dll
+D:\Lab\NLLTHDT\Inheritance\QLHinhHoc\QLHinhHoc\bin\Debug\net8.0\QLHinhHoc.pdb
+D:\Lab\NLLTHDT\Inheritance\QLHinhHoc\QLHinhHoc\obj\Debug\net8.0\QLHinhHoc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab\NLLTHDT\Inheritance\QLHinhHoc\QLHinhHoc\obj\Debug\net8.0\QLHinhHoc.AssemblyInfoInputs.cache
+D:\Lab\NLLTHDT\Inheritance\QLHinhHoc\QLHinhHoc\obj\Debug\net8.0\QLHinhHoc.AssemblyInfo.cs
+D:\Lab\NLLTHDT\Inheritance\QLHinhHoc\QLHinhHoc\obj\Debug\net8.0\QLHinhHoc.csproj.CoreCompileInputs.cache
+D:\Lab\NLLTHDT\Inheritance\QLHinhHoc\QLHinhHoc\obj\Debug\net8.0\QLHinhHoc.sourcelink.json
+D:\Lab\NLLTHDT\Inheritance\QLHinhHoc\QLHinhHoc\obj\Debug\net8.0\QLHinhHoc.dll
+D:\Lab\NLLTHDT\Inheritance\QLHinhHoc\QLHinhHoc\obj\Debug\net8.0\refint\QLHinhHoc.dll
+D:\Lab\NLLTHDT\Inheritance\QLHinhHoc\QLHinhHoc\obj\Debug\net8.0\QLHinhHoc.pdb
+D:\Lab\NLLTHDT\Inheritance\QLHinhHoc\QLHinhHoc\obj\Debug\net8.0\QLHinhHoc.genruntimeconfig.cache
+D:\Lab\NLLTHDT\Inheritance\QLHinhHoc\QLHinhHoc\obj\Debug\net8.0\ref\QLHinhHoc.dll
