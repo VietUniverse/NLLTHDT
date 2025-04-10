@@ -1,0 +1,13 @@
+﻿Lion,Su tu Leo,10
+Lion,Young Lion,2
+Fish,Ca vang,1
+Fish,Nemo,1
+Fish,Ca he,1
+Bat,Doi Corona,2
+Bat,Batman,45
+Bird,Chim Chao mao,2
+Bird,Chim Sao,2
+Bird,Chim Yen,2
+Lion,Lion King Mufasa,20
+Bird,Qua den,2
+Bat,Doi Vu Han,2
