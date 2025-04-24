@@ -8,6 +8,7 @@ namespace Lab07_KeThuaVaDaKeThua_QuanLyDV_
 {
     public class Bat : Animal, IFlyable
     {
+        public Bat() { }
         public Bat(string loai, string name, int age) : base(loai, name, age) { }
 
         public string Speak()

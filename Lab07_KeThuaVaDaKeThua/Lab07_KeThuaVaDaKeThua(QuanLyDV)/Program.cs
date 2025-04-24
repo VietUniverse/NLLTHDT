@@ -58,6 +58,11 @@ namespace Lab07_KeThuaVaDaKeThua_QuanLyDV_
         }
         static void Main(string[] args)
         {
+
+            Bat b = new Bat();
+            Bird B = new Bird();
+            Lion l = new Lion();
+            b.Speak();B.Speak();l.Speak();
             //QuanLyDV ds = new QuanLyDV();
             //ds.NhapTuFile("DSDongVat.txt");
 

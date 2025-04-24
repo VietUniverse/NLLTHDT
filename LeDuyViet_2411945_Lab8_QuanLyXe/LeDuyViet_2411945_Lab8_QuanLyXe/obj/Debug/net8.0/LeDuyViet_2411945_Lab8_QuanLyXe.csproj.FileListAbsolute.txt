@@ -1,0 +1,15 @@
+D:\Lab\NLLTHDT\LeDuyViet_2411945_Lab8_QuanLyXe\LeDuyViet_2411945_Lab8_QuanLyXe\bin\Debug\net8.0\LeDuyViet_2411945_Lab8_QuanLyXe.exe
+D:\Lab\NLLTHDT\LeDuyViet_2411945_Lab8_QuanLyXe\LeDuyViet_2411945_Lab8_QuanLyXe\bin\Debug\net8.0\LeDuyViet_2411945_Lab8_QuanLyXe.deps.json
+D:\Lab\NLLTHDT\LeDuyViet_2411945_Lab8_QuanLyXe\LeDuyViet_2411945_Lab8_QuanLyXe\bin\Debug\net8.0\LeDuyViet_2411945_Lab8_QuanLyXe.runtimeconfig.json
+D:\Lab\NLLTHDT\LeDuyViet_2411945_Lab8_QuanLyXe\LeDuyViet_2411945_Lab8_QuanLyXe\bin\Debug\net8.0\LeDuyViet_2411945_Lab8_QuanLyXe.dll
+D:\Lab\NLLTHDT\LeDuyViet_2411945_Lab8_QuanLyXe\LeDuyViet_2411945_Lab8_QuanLyXe\bin\Debug\net8.0\LeDuyViet_2411945_Lab8_QuanLyXe.pdb
+D:\Lab\NLLTHDT\LeDuyViet_2411945_Lab8_QuanLyXe\LeDuyViet_2411945_Lab8_QuanLyXe\obj\Debug\net8.0\LeDuyViet_2411945_Lab8_QuanLyXe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab\NLLTHDT\LeDuyViet_2411945_Lab8_QuanLyXe\LeDuyViet_2411945_Lab8_QuanLyXe\obj\Debug\net8.0\LeDuyViet_2411945_Lab8_QuanLyXe.AssemblyInfoInputs.cache
+D:\Lab\NLLTHDT\LeDuyViet_2411945_Lab8_QuanLyXe\LeDuyViet_2411945_Lab8_QuanLyXe\obj\Debug\net8.0\LeDuyViet_2411945_Lab8_QuanLyXe.AssemblyInfo.cs
+D:\Lab\NLLTHDT\LeDuyViet_2411945_Lab8_QuanLyXe\LeDuyViet_2411945_Lab8_QuanLyXe\obj\Debug\net8.0\LeDuyViet_2411945_Lab8_QuanLyXe.csproj.CoreCompileInputs.cache
+D:\Lab\NLLTHDT\LeDuyViet_2411945_Lab8_QuanLyXe\LeDuyViet_2411945_Lab8_QuanLyXe\obj\Debug\net8.0\LeDuyViet_2411945_Lab8_QuanLyXe.sourcelink.json
+D:\Lab\NLLTHDT\LeDuyViet_2411945_Lab8_QuanLyXe\LeDuyViet_2411945_Lab8_QuanLyXe\obj\Debug\net8.0\LeDuyViet_2411945_Lab8_QuanLyXe.dll
+D:\Lab\NLLTHDT\LeDuyViet_2411945_Lab8_QuanLyXe\LeDuyViet_2411945_Lab8_QuanLyXe\obj\Debug\net8.0\refint\LeDuyViet_2411945_Lab8_QuanLyXe.dll
+D:\Lab\NLLTHDT\LeDuyViet_2411945_Lab8_QuanLyXe\LeDuyViet_2411945_Lab8_QuanLyXe\obj\Debug\net8.0\LeDuyViet_2411945_Lab8_QuanLyXe.pdb
+D:\Lab\NLLTHDT\LeDuyViet_2411945_Lab8_QuanLyXe\LeDuyViet_2411945_Lab8_QuanLyXe\obj\Debug\net8.0\LeDuyViet_2411945_Lab8_QuanLyXe.genruntimeconfig.cache
+D:\Lab\NLLTHDT\LeDuyViet_2411945_Lab8_QuanLyXe\LeDuyViet_2411945_Lab8_QuanLyXe\obj\Debug\net8.0\ref\LeDuyViet_2411945_Lab8_QuanLyXe.dll

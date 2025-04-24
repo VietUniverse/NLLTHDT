@@ -9,6 +9,8 @@ namespace Lab07_KeThuaVaDaKeThua_QuanLyDV_
 {
     public class Lion : Animal
     {
+        public Lion() { }
+
         public Lion(string loai, string name, int age) : base(loai, name, age)
         { }
         public string Speak()

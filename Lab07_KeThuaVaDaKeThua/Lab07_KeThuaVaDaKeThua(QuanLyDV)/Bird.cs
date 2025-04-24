@@ -9,6 +9,7 @@ namespace Lab07_KeThuaVaDaKeThua_QuanLyDV_
 {
     public class Bird : Animal, IFlyable
     {
+        public Bird() { }
         public Bird(string loai, string name, int age):base(loai, name, age) { }
         public string Speak()
         {

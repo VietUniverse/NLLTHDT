@@ -1,0 +1,15 @@
+D:\Lab\NLLTHDT\Inheritance\test\test\bin\Debug\net8.0\test.exe
+D:\Lab\NLLTHDT\Inheritance\test\test\bin\Debug\net8.0\test.deps.json
+D:\Lab\NLLTHDT\Inheritance\test\test\bin\Debug\net8.0\test.runtimeconfig.json
+D:\Lab\NLLTHDT\Inheritance\test\test\bin\Debug\net8.0\test.dll
+D:\Lab\NLLTHDT\Inheritance\test\test\bin\Debug\net8.0\test.pdb
+D:\Lab\NLLTHDT\Inheritance\test\test\obj\Debug\net8.0\test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab\NLLTHDT\Inheritance\test\test\obj\Debug\net8.0\test.AssemblyInfoInputs.cache
+D:\Lab\NLLTHDT\Inheritance\test\test\obj\Debug\net8.0\test.AssemblyInfo.cs
+D:\Lab\NLLTHDT\Inheritance\test\test\obj\Debug\net8.0\test.csproj.CoreCompileInputs.cache
+D:\Lab\NLLTHDT\Inheritance\test\test\obj\Debug\net8.0\test.sourcelink.json
+D:\Lab\NLLTHDT\Inheritance\test\test\obj\Debug\net8.0\test.dll
+D:\Lab\NLLTHDT\Inheritance\test\test\obj\Debug\net8.0\refint\test.dll
+D:\Lab\NLLTHDT\Inheritance\test\test\obj\Debug\net8.0\test.pdb
+D:\Lab\NLLTHDT\Inheritance\test\test\obj\Debug\net8.0\test.genruntimeconfig.cache
+D:\Lab\NLLTHDT\Inheritance\test\test\obj\Debug\net8.0\ref\test.dll
