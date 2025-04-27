@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Lab\\NLLTHDT\\Lab07_KeThuaVaDaKeThua\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{89A30214-6C88-4A97-A965-AB9A2B0C3753}|Lab07_KeThuaVaDaKeThua(QuanLyDV)\\Lab07_KeThuaVaDaKeThua(QuanLyDV).csproj|d:\\lab\\nllthdt\\lab07_kethuavadakethua\\lab07_kethuavadakethua(quanlydv)\\dsdongvat.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{89A30214-6C88-4A97-A965-AB9A2B0C3753}|Lab07_KeThuaVaDaKeThua(QuanLyDV)\\Lab07_KeThuaVaDaKeThua(QuanLyDV).csproj|solutionrelative:lab07_kethuavadakethua(quanlydv)\\dsdongvat.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{89A30214-6C88-4A97-A965-AB9A2B0C3753}|Lab07_KeThuaVaDaKeThua(QuanLyDV)\\Lab07_KeThuaVaDaKeThua(QuanLyDV).csproj|d:\\lab\\nllthdt\\lab07_kethuavadakethua\\lab07_kethuavadakethua(quanlydv)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89A30214-6C88-4A97-A965-AB9A2B0C3753}|Lab07_KeThuaVaDaKeThua(QuanLyDV)\\Lab07_KeThuaVaDaKeThua(QuanLyDV).csproj|solutionrelative:lab07_kethuavadakethua(quanlydv)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{89A30214-6C88-4A97-A965-AB9A2B0C3753}|Lab07_KeThuaVaDaKeThua(QuanLyDV)\\Lab07_KeThuaVaDaKeThua(QuanLyDV).csproj|d:\\lab\\nllthdt\\lab07_kethuavadakethua\\lab07_kethuavadakethua(quanlydv)\\quanlydv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89A30214-6C88-4A97-A965-AB9A2B0C3753}|Lab07_KeThuaVaDaKeThua(QuanLyDV)\\Lab07_KeThuaVaDaKeThua(QuanLyDV).csproj|solutionrelative:lab07_kethuavadakethua(quanlydv)\\quanlydv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89A30214-6C88-4A97-A965-AB9A2B0C3753}|Lab07_KeThuaVaDaKeThua(QuanLyDV)\\Lab07_KeThuaVaDaKeThua(QuanLyDV).csproj|d:\\lab\\nllthdt\\lab07_kethuavadakethua\\lab07_kethuavadakethua(quanlydv)\\dsdongvat.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{89A30214-6C88-4A97-A965-AB9A2B0C3753}|Lab07_KeThuaVaDaKeThua(QuanLyDV)\\Lab07_KeThuaVaDaKeThua(QuanLyDV).csproj|solutionrelative:lab07_kethuavadakethua(quanlydv)\\dsdongvat.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{89A30214-6C88-4A97-A965-AB9A2B0C3753}|Lab07_KeThuaVaDaKeThua(QuanLyDV)\\Lab07_KeThuaVaDaKeThua(QuanLyDV).csproj|d:\\lab\\nllthdt\\lab07_kethuavadakethua\\lab07_kethuavadakethua(quanlydv)\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,11 +54,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "DSDongVat.txt",
               "DocumentMoniker": "D:\\Lab\\NLLTHDT\\Lab07_KeThuaVaDaKeThua\\Lab07_KeThuaVaDaKeThua(QuanLyDV)\\DSDongVat.txt",
               "RelativeDocumentMoniker": "Lab07_KeThuaVaDaKeThua(QuanLyDV)\\DSDongVat.txt",
@@ -71,19 +71,6 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "QuanLyDV.cs",
-              "DocumentMoniker": "D:\\Lab\\NLLTHDT\\Lab07_KeThuaVaDaKeThua\\Lab07_KeThuaVaDaKeThua(QuanLyDV)\\QuanLyDV.cs",
-              "RelativeDocumentMoniker": "Lab07_KeThuaVaDaKeThua(QuanLyDV)\\QuanLyDV.cs",
-              "ToolTip": "D:\\Lab\\NLLTHDT\\Lab07_KeThuaVaDaKeThua\\Lab07_KeThuaVaDaKeThua(QuanLyDV)\\QuanLyDV.cs",
-              "RelativeToolTip": "Lab07_KeThuaVaDaKeThua(QuanLyDV)\\QuanLyDV.cs",
-              "ViewState": "AgIAAOsBAAAAAAAAAAAYwDMAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T15:15:51.57Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
             },
@@ -93,7 +80,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "QuanLyDV.cs",
+              "DocumentMoniker": "D:\\Lab\\NLLTHDT\\Lab07_KeThuaVaDaKeThua\\Lab07_KeThuaVaDaKeThua(QuanLyDV)\\QuanLyDV.cs",
+              "RelativeDocumentMoniker": "Lab07_KeThuaVaDaKeThua(QuanLyDV)\\QuanLyDV.cs",
+              "ToolTip": "D:\\Lab\\NLLTHDT\\Lab07_KeThuaVaDaKeThua\\Lab07_KeThuaVaDaKeThua(QuanLyDV)\\QuanLyDV.cs",
+              "RelativeToolTip": "Lab07_KeThuaVaDaKeThua(QuanLyDV)\\QuanLyDV.cs",
+              "ViewState": "AgIAAOsBAAAAAAAAAAAYwDMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:15:51.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Lion.cs",
               "DocumentMoniker": "D:\\Lab\\NLLTHDT\\Lab07_KeThuaVaDaKeThua\\Lab07_KeThuaVaDaKeThua(QuanLyDV)\\Lion.cs",
               "RelativeDocumentMoniker": "Lab07_KeThuaVaDaKeThua(QuanLyDV)\\Lion.cs",
@@ -101,21 +100,7 @@
               "RelativeToolTip": "Lab07_KeThuaVaDaKeThua(QuanLyDV)\\Lion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T15:15:50.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Lab\\NLLTHDT\\Lab07_KeThuaVaDaKeThua\\Lab07_KeThuaVaDaKeThua(QuanLyDV)\\Program.cs",
-              "RelativeDocumentMoniker": "Lab07_KeThuaVaDaKeThua(QuanLyDV)\\Program.cs",
-              "ToolTip": "D:\\Lab\\NLLTHDT\\Lab07_KeThuaVaDaKeThua\\Lab07_KeThuaVaDaKeThua(QuanLyDV)\\Program.cs",
-              "RelativeToolTip": "Lab07_KeThuaVaDaKeThua(QuanLyDV)\\Program.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAgwD0AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T15:15:49.505Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-09T15:15:50.177Z"
             },
             {
               "$type": "Document",
@@ -131,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Bird.cs",
               "DocumentMoniker": "D:\\Lab\\NLLTHDT\\Lab07_KeThuaVaDaKeThua\\Lab07_KeThuaVaDaKeThua(QuanLyDV)\\Bird.cs",
               "RelativeDocumentMoniker": "Lab07_KeThuaVaDaKeThua(QuanLyDV)\\Bird.cs",
@@ -139,12 +124,11 @@
               "RelativeToolTip": "Lab07_KeThuaVaDaKeThua(QuanLyDV)\\Bird.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T15:06:09.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-09T15:06:09.763Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Bat.cs",
               "DocumentMoniker": "D:\\Lab\\NLLTHDT\\Lab07_KeThuaVaDaKeThua\\Lab07_KeThuaVaDaKeThua(QuanLyDV)\\Bat.cs",
               "RelativeDocumentMoniker": "Lab07_KeThuaVaDaKeThua(QuanLyDV)\\Bat.cs",
@@ -152,12 +136,11 @@
               "RelativeToolTip": "Lab07_KeThuaVaDaKeThua(QuanLyDV)\\Bat.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T15:06:01.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-09T15:06:01.472Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Animal.cs",
               "DocumentMoniker": "D:\\Lab\\NLLTHDT\\Lab07_KeThuaVaDaKeThua\\Lab07_KeThuaVaDaKeThua(QuanLyDV)\\Animal.cs",
               "RelativeDocumentMoniker": "Lab07_KeThuaVaDaKeThua(QuanLyDV)\\Animal.cs",
@@ -165,8 +148,7 @@
               "RelativeToolTip": "Lab07_KeThuaVaDaKeThua(QuanLyDV)\\Animal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T15:05:52.649Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-09T15:05:52.649Z"
             },
             {
               "$type": "Document",
@@ -178,8 +160,7 @@
               "RelativeToolTip": "Lab07_KeThuaVaDaKeThua(QuanLyDV)\\IAnimal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T15:05:34.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-09T15:05:34.501Z"
             },
             {
               "$type": "Document",
@@ -218,6 +199,40 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "09df7eda-b82a-4515-9eac-7a0ddfdebbfd",
+        "Display": 1,
+        "X": 155,
+        "Y": 150,
+        "Width": 1593,
+        "Height": 853,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Lab\\NLLTHDT\\Lab07_KeThuaVaDaKeThua\\Lab07_KeThuaVaDaKeThua(QuanLyDV)\\Program.cs",
+              "RelativeDocumentMoniker": "Lab07_KeThuaVaDaKeThua(QuanLyDV)\\Program.cs",
+              "ToolTip": "D:\\Lab\\NLLTHDT\\Lab07_KeThuaVaDaKeThua\\Lab07_KeThuaVaDaKeThua(QuanLyDV)\\Program.cs",
+              "RelativeToolTip": "Lab07_KeThuaVaDaKeThua(QuanLyDV)\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwE4BAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:15:49.505Z",
+              "EditorCaption": ""
             }
           ]
         }
