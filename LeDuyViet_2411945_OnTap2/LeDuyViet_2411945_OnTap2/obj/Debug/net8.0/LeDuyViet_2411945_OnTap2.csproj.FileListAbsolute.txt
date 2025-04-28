@@ -1,0 +1,15 @@
+D:\Lab\NLLTHDT\LeDuyViet_2411945_OnTap2\LeDuyViet_2411945_OnTap2\obj\Debug\net8.0\LeDuyViet_2411945_OnTap2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab\NLLTHDT\LeDuyViet_2411945_OnTap2\LeDuyViet_2411945_OnTap2\obj\Debug\net8.0\LeDuyViet_2411945_OnTap2.AssemblyInfoInputs.cache
+D:\Lab\NLLTHDT\LeDuyViet_2411945_OnTap2\LeDuyViet_2411945_OnTap2\obj\Debug\net8.0\LeDuyViet_2411945_OnTap2.AssemblyInfo.cs
+D:\Lab\NLLTHDT\LeDuyViet_2411945_OnTap2\LeDuyViet_2411945_OnTap2\obj\Debug\net8.0\LeDuyViet_2411945_OnTap2.csproj.CoreCompileInputs.cache
+D:\Lab\NLLTHDT\LeDuyViet_2411945_OnTap2\LeDuyViet_2411945_OnTap2\obj\Debug\net8.0\LeDuyViet_2411945_OnTap2.sourcelink.json
+D:\Lab\NLLTHDT\LeDuyViet_2411945_OnTap2\LeDuyViet_2411945_OnTap2\bin\Debug\net8.0\LeDuyViet_2411945_OnTap2.exe
+D:\Lab\NLLTHDT\LeDuyViet_2411945_OnTap2\LeDuyViet_2411945_OnTap2\bin\Debug\net8.0\LeDuyViet_2411945_OnTap2.deps.json
+D:\Lab\NLLTHDT\LeDuyViet_2411945_OnTap2\LeDuyViet_2411945_OnTap2\bin\Debug\net8.0\LeDuyViet_2411945_OnTap2.runtimeconfig.json
+D:\Lab\NLLTHDT\LeDuyViet_2411945_OnTap2\LeDuyViet_2411945_OnTap2\bin\Debug\net8.0\LeDuyViet_2411945_OnTap2.dll
+D:\Lab\NLLTHDT\LeDuyViet_2411945_OnTap2\LeDuyViet_2411945_OnTap2\bin\Debug\net8.0\LeDuyViet_2411945_OnTap2.pdb
+D:\Lab\NLLTHDT\LeDuyViet_2411945_OnTap2\LeDuyViet_2411945_OnTap2\obj\Debug\net8.0\LeDuyViet_2411945_OnTap2.dll
+D:\Lab\NLLTHDT\LeDuyViet_2411945_OnTap2\LeDuyViet_2411945_OnTap2\obj\Debug\net8.0\refint\LeDuyViet_2411945_OnTap2.dll
+D:\Lab\NLLTHDT\LeDuyViet_2411945_OnTap2\LeDuyViet_2411945_OnTap2\obj\Debug\net8.0\LeDuyViet_2411945_OnTap2.pdb
+D:\Lab\NLLTHDT\LeDuyViet_2411945_OnTap2\LeDuyViet_2411945_OnTap2\obj\Debug\net8.0\LeDuyViet_2411945_OnTap2.genruntimeconfig.cache
+D:\Lab\NLLTHDT\LeDuyViet_2411945_OnTap2\LeDuyViet_2411945_OnTap2\obj\Debug\net8.0\ref\LeDuyViet_2411945_OnTap2.dll
