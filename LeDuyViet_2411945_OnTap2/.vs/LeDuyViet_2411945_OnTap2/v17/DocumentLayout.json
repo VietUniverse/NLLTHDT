@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\Lab\\NLLTHDT\\LeDuyViet_2411945_OnTap2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{21975C34-9E58-423B-AA9E-C12F9F9397BF}|LeDuyViet_2411945_OnTap2\\LeDuyViet_2411945_OnTap2.csproj|d:\\lab\\nllthdt\\leduyviet_2411945_ontap2\\leduyviet_2411945_ontap2\\danhsachnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21975C34-9E58-423B-AA9E-C12F9F9397BF}|LeDuyViet_2411945_OnTap2\\LeDuyViet_2411945_OnTap2.csproj|solutionrelative:leduyviet_2411945_ontap2\\danhsachnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{21975C34-9E58-423B-AA9E-C12F9F9397BF}|LeDuyViet_2411945_OnTap2\\LeDuyViet_2411945_OnTap2.csproj|d:\\lab\\nllthdt\\leduyviet_2411945_ontap2\\leduyviet_2411945_ontap2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21975C34-9E58-423B-AA9E-C12F9F9397BF}|LeDuyViet_2411945_OnTap2\\LeDuyViet_2411945_OnTap2.csproj|solutionrelative:leduyviet_2411945_ontap2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21975C34-9E58-423B-AA9E-C12F9F9397BF}|LeDuyViet_2411945_OnTap2\\LeDuyViet_2411945_OnTap2.csproj|d:\\lab\\nllthdt\\leduyviet_2411945_ontap2\\leduyviet_2411945_ontap2\\quanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21975C34-9E58-423B-AA9E-C12F9F9397BF}|LeDuyViet_2411945_OnTap2\\LeDuyViet_2411945_OnTap2.csproj|solutionrelative:leduyviet_2411945_ontap2\\quanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{21975C34-9E58-423B-AA9E-C12F9F9397BF}|LeDuyViet_2411945_OnTap2\\LeDuyViet_2411945_OnTap2.csproj|d:\\lab\\nllthdt\\leduyviet_2411945_ontap2\\leduyviet_2411945_ontap2\\iquanlyluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21975C34-9E58-423B-AA9E-C12F9F9397BF}|LeDuyViet_2411945_OnTap2\\LeDuyViet_2411945_OnTap2.csproj|solutionrelative:leduyviet_2411945_ontap2\\iquanlyluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21975C34-9E58-423B-AA9E-C12F9F9397BF}|LeDuyViet_2411945_OnTap2\\LeDuyViet_2411945_OnTap2.csproj|d:\\lab\\nllthdt\\leduyviet_2411945_ontap2\\leduyviet_2411945_ontap2\\quanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21975C34-9E58-423B-AA9E-C12F9F9397BF}|LeDuyViet_2411945_OnTap2\\LeDuyViet_2411945_OnTap2.csproj|solutionrelative:leduyviet_2411945_ontap2\\quanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21975C34-9E58-423B-AA9E-C12F9F9397BF}|LeDuyViet_2411945_OnTap2\\LeDuyViet_2411945_OnTap2.csproj|d:\\lab\\nllthdt\\leduyviet_2411945_ontap2\\leduyviet_2411945_ontap2\\inhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,6 +51,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DanhSachNhanVien.cs",
+              "DocumentMoniker": "D:\\Lab\\NLLTHDT\\LeDuyViet_2411945_OnTap2\\LeDuyViet_2411945_OnTap2\\DanhSachNhanVien.cs",
+              "RelativeDocumentMoniker": "LeDuyViet_2411945_OnTap2\\DanhSachNhanVien.cs",
+              "ToolTip": "D:\\Lab\\NLLTHDT\\LeDuyViet_2411945_OnTap2\\LeDuyViet_2411945_OnTap2\\DanhSachNhanVien.cs",
+              "RelativeToolTip": "LeDuyViet_2411945_OnTap2\\DanhSachNhanVien.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAAIEAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:36:01.463Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -63,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "IBaoCao.cs",
               "DocumentMoniker": "D:\\Lab\\NLLTHDT\\LeDuyViet_2411945_OnTap2\\LeDuyViet_2411945_OnTap2\\IBaoCao.cs",
               "RelativeDocumentMoniker": "LeDuyViet_2411945_OnTap2\\IBaoCao.cs",
@@ -71,12 +88,11 @@
               "RelativeToolTip": "LeDuyViet_2411945_OnTap2\\IBaoCao.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T15:40:23.513Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T15:40:23.513Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "IKhaNangQuanLy.cs",
               "DocumentMoniker": "D:\\Lab\\NLLTHDT\\LeDuyViet_2411945_OnTap2\\LeDuyViet_2411945_OnTap2\\IKhaNangQuanLy.cs",
               "RelativeDocumentMoniker": "LeDuyViet_2411945_OnTap2\\IKhaNangQuanLy.cs",
@@ -84,25 +100,24 @@
               "RelativeToolTip": "LeDuyViet_2411945_OnTap2\\IKhaNangQuanLy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T15:37:03.186Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T15:37:03.186Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "QuanLy.cs",
               "DocumentMoniker": "D:\\Lab\\NLLTHDT\\LeDuyViet_2411945_OnTap2\\LeDuyViet_2411945_OnTap2\\QuanLy.cs",
               "RelativeDocumentMoniker": "LeDuyViet_2411945_OnTap2\\QuanLy.cs",
               "ToolTip": "D:\\Lab\\NLLTHDT\\LeDuyViet_2411945_OnTap2\\LeDuyViet_2411945_OnTap2\\QuanLy.cs",
               "RelativeToolTip": "LeDuyViet_2411945_OnTap2\\QuanLy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwDkAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T14:10:35.594Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "INhanVien.cs",
               "DocumentMoniker": "D:\\Lab\\NLLTHDT\\LeDuyViet_2411945_OnTap2\\LeDuyViet_2411945_OnTap2\\INhanVien.cs",
               "RelativeDocumentMoniker": "LeDuyViet_2411945_OnTap2\\INhanVien.cs",
@@ -115,26 +130,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "INguoi.cs",
               "DocumentMoniker": "D:\\Lab\\NLLTHDT\\LeDuyViet_2411945_OnTap2\\LeDuyViet_2411945_OnTap2\\INguoi.cs",
               "RelativeDocumentMoniker": "LeDuyViet_2411945_OnTap2\\INguoi.cs",
               "ToolTip": "D:\\Lab\\NLLTHDT\\LeDuyViet_2411945_OnTap2\\LeDuyViet_2411945_OnTap2\\INguoi.cs",
               "RelativeToolTip": "LeDuyViet_2411945_OnTap2\\INguoi.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T14:05:52.974Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Lab\\NLLTHDT\\LeDuyViet_2411945_OnTap2\\LeDuyViet_2411945_OnTap2\\Program.cs",
               "RelativeDocumentMoniker": "LeDuyViet_2411945_OnTap2\\Program.cs",
               "ToolTip": "D:\\Lab\\NLLTHDT\\LeDuyViet_2411945_OnTap2\\LeDuyViet_2411945_OnTap2\\Program.cs",
               "RelativeToolTip": "LeDuyViet_2411945_OnTap2\\Program.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAEwD8AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAAAJkAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T14:04:44.136Z",
               "EditorCaption": ""

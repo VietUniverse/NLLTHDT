@@ -152,7 +152,7 @@
                             loainv = (DanhSachNhanVien.nhanvien)int.Parse(Console.ReadLine());
                             Console.Write("Nhap gia tri moi: ");
                             data = Console.ReadLine();
-                            ds.SuaThongTin(vt, loainv, data);
+                            ds.CapNhatThongTin(vt, loainv, data);
                             Console.WriteLine("Sua thong tin thanh cong!");
                         }
                         break;

@@ -117,10 +117,26 @@ namespace LeDuyViet_2411945_OnTap2
             {
                 for(int j = 0; j < employees.Count; j++)
                 {
-                    if(sx == SapXep.tang && string.Compare(((QuanLy)employees[i]).Ten, ((QuanLy)employees[j]).Ten) > 0)
-                        SwapItem(i, j);
-                    else if(sx == SapXep.giam && string.Compare(((QuanLy)employees[i]).Ten, ((QuanLy)employees[j]).Ten) < 0)
-                        SwapItem(i,j);
+                    if (sx == SapXep.tang && string.Compare(((QuanLy)employees[i]).Ten, ((QuanLy)employees[j]).Ten) >= 0)
+                    {
+                        if (string.Compare(((QuanLy)employees[i]).Ten, ((QuanLy)employees[j]).Ten) > 0)
+                        {
+                            SwapItem(i, j);
+                            continue;
+                        }
+                        else if (string.Compare(((QuanLy)employees[i]).Ho, ((QuanLy)employees[j]).Ho) > 0)
+                            SwapItem(i, j);
+                    }
+                    else if (sx == SapXep.giam && string.Compare(((QuanLy)employees[i]).Ten, ((QuanLy)employees[j]).Ten) < 0)
+                    {
+                        if (string.Compare(((QuanLy)employees[i]).Ten, ((QuanLy)employees[j]).Ten) < 0)
+                        {
+                            SwapItem(i, j);
+                            continue;
+                        }
+                        else if (string.Compare(((QuanLy)employees[i]).Ho, ((QuanLy)employees[j]).Ho) < 0)
+                            SwapItem(i, j);
+                    }
                 }
             }
         }
@@ -158,7 +174,7 @@ namespace LeDuyViet_2411945_OnTap2
             ho,ten,id,phong
         }
 
-        public void SuaThongTin(int vt, nhanvien nv, string data)
+        public void CapNhatThongTin(int vt, nhanvien nv, string data)
         {
             if (nv == nhanvien.ho)
                 ((QuanLy)employees[vt]).Ho = data;
